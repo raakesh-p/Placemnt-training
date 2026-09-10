@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class find_lcm{
+class find_lcm{
   public static void main(String[] args){
     Scanner s = new Scanner(System.in);
     System.out.println("Enter two numbers: ");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class check_leap_year{
+class check_leap_year{
   public static void main(String[] args){
     Scanner s = new Scanner(System.in);
     System.out.println("Enter a year");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class second_largest_number{
+class second_largest_number{
   public static void main(String[] args){
     Scanner s = new Scanner(System.in);
     int a, b, c;
