@@ -8,7 +8,7 @@ class enhanced_monkey_and_tower{
     int towerHeight = s.nextInt();
     System.out.print("Enter the climbing distance: ");
     int ascend = s.nextInt();
-    System.out.print("Enter the slipping diatance: ");
+    System.out.print("Enter the slipping distance: ");
     int descend = s.nextInt();
     
     int net = ascend - descend;
